@@ -6,3 +6,13 @@ var legumes = ["patate", "carotte", "aubergine", "haricot", "courgette","citroui
 
 console.log(legumes[0]);
 console.log(legumes[10]);
+
+if (compteur.innerHTML > 3000) {
+    console.log("C'est supérieure à 3000 mots");
+}else {
+    console.log("Le nombre de mots est infèrieure à 3000");
+}
+
+
+
+
