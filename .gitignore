@@ -1,9 +1,1 @@
 ## Ignore all files we don't needed
-
-*.log
-*.pdf
-*.psd
-*.ai
-*.css
-*.xd
-.DS_Store
