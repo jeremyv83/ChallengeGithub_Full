@@ -5,3 +5,4 @@ compteur.innerHTML = poeme.length;
 var legumes = ["patate", "carotte", "aubergine", "haricot", "courgette","citrouille", "salade","lentilles","poivron","chou-fleur", "betterave"];
 
 console.log(legumes[0]);
+console.log(legumes[10]);
